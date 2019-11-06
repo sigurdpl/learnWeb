@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: black;
+  color: blanchedalmond;
+  text-align: center;
+  padding: 25px 0;
+  margin: 0 0 25px 0;
+}
+
+main {
+  background-color: lightgray;
+  width: 600px;
+  padding: 25px;
+  border: solid 5px red;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  background-color: black;
+  color: blanchedalmond;
+  text-align: center;
+  padding: 25px 0;
+  margin: 25px 0 0px 0;
+}
